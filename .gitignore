@@ -1,0 +1,11 @@
+node_modules/
+.env
+dist/
+build/
+.DS_Store
+*.log
+client/node_modules/
+backend/node_modules/
+frontend/
+travel-app/
+client/dist/
